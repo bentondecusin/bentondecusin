@@ -28,7 +28,7 @@ Here are some ideas to get you started:
           </tr>
           <tr>
             <td><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"></td>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"></td>
+            <td><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"></td>
             <td><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif"></td>
           </tr>
         </tbody></table>

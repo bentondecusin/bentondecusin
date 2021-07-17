@@ -1,4 +1,3 @@
-
 <!--
 **bentondecusin/bentondecusin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,22 +12,66 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<table>
-          <tbody><tr>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"></td>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"></td>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif"></td>
-          </tr>
-          <tr>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"></td>
-            <td><h2>Waddap
-</h2></td>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif"></td>
-          </tr>
-          <tr>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif"></td>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif"></td>
-            <td><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif"></td>
-          </tr>
-        </tbody></table>
+<div style="border: 1px red solid">
+  <div style="display:flex;
+      flex-direction: row;
+      justify-content: space-between;">
+      <img src="./wave1parrot.gif">
+      <img src="./wave2parrot.gif">
+      <img src="./wave3parrot.gif">
+      <img src="./wave4parrot.gif">
+      <img src="./wave5parrot.gif">
+      <img src="./wave6parrot.gif">
+      <img src="./wave7parrot.gif">
+      <img src="./wave8parrot.gif">
+      <img src="./wave9parrot.gif">
+      <img src="./wave1parrot.gif">
+      <img src="./wave2parrot.gif">
+      <img src="./wave3parrot.gif">
+      <img src="./wave4parrot.gif">      
+      <img src="./wave5parrot.gif">
+    </div>
+  <div style="display:flex;
+      flex-direction: row;
+      justify-content: space-between;">
+      <div style="display:flex;
+      flex-direction: column-reverse;
+      justify-content: space-between;">
+        <img src="./wave6parrot.gif">
+        <img src="./wave7parrot.gif">
+        <img src="./wave8parrot.gif">
+        <img src="./wave9parrot.gif">
+      </div>  
+    <div style="display:flex;
+      flex-direction: column;
+      justify-content: space-around;"> 
+          <a>Wassup</a>
+    </div>
+    <div style="display:flex;
+      flex-direction: column;
+      justify-content: space-between;">
+        <img src="./wave6parrot.gif">
+        <img src="./wave7parrot.gif">
+        <img src="./wave8parrot.gif">
+        <img src="./wave9parrot.gif">
+    </div>
+  </div>
+  <div style="display:flex;
+      flex-direction: row-reverse;
+      justify-content: space-between;">
+      <img src="./wave1parrot.gif">
+      <img src="./wave2parrot.gif">
+      <img src="./wave3parrot.gif">
+      <img src="./wave4parrot.gif">
+      <img src="./wave5parrot.gif">
+      <img src="./wave6parrot.gif">
+      <img src="./wave7parrot.gif">
+      <img src="./wave8parrot.gif">
+      <img src="./wave9parrot.gif">
+      <img src="./wave1parrot.gif">
+      <img src="./wave2parrot.gif">
+      <img src="./wave3parrot.gif">
+      <img src="./wave4parrot.gif">      
+      <img src="./wave5parrot.gif">
+  </div>
+</div>

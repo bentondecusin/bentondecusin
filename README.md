@@ -30,33 +30,20 @@ Here are some ideas to get you started:
       <img src="./wave3parrot.gif">
       <img src="./wave4parrot.gif">      
       <img src="./wave5parrot.gif">
-  </div>
-  <div style="display:flex;
-      flex-direction: row;
-      justify-content: space-between;">
-    <div style="display:flex;
-      flex-direction: column-reverse;
-      justify-content: space-between;">
       <img src="./wave6parrot.gif">
       <img src="./wave7parrot.gif">
       <img src="./wave8parrot.gif">
       <img src="./wave9parrot.gif">
-    </div>  
-    <div style="display:flex;
-      flex-direction: column;
-      justify-content: space-around;"> 
-          <a>Wassup!</a>
-    </div>
-    <div style="display:flex;
-      flex-direction: column;
-      justify-content: space-between;">
-        <img src="./wave6parrot.gif">
-        <img src="./wave7parrot.gif">
-        <img src="./wave8parrot.gif">
-        <img src="./wave9parrot.gif">
-    </div>
+      <img src="./wave1parrot.gif">
+      <img src="./wave2parrot.gif">
+      <img src="./wave3parrot.gif">
   </div>
   <div style="display:flex;
+      flex-direction: row;
+      justify-content: center;">
+      <a>Wassup!</a>  
+  </div>
+    <div style="display:flex;
       flex-direction: row-reverse;
       justify-content: space-between;">
     <img src="./wave1parrot.gif">
@@ -73,5 +60,13 @@ Here are some ideas to get you started:
     <img src="./wave3parrot.gif">
     <img src="./wave4parrot.gif">      
     <img src="./wave5parrot.gif">
+    <img src="./wave6parrot.gif">
+    <img src="./wave7parrot.gif">
+    <img src="./wave8parrot.gif">
+    <img src="./wave9parrot.gif">
+    <img src="./wave1parrot.gif">
+    <img src="./wave2parrot.gif">
+    <img src="./wave3parrot.gif">
+  </div>
   </div>
 </div>

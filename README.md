@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a>
-  <img src="https://bcyl-io.vercel.app/gh.readme"/>
+<a href="https://bcyl-io.vercel.app/gh.readme" >
+  <img align="center" src="https://bcyl-io.vercel.app/gh.readme" alt"Ahhhhh birbs"/>
 </a>

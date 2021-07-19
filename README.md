@@ -12,16 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div styles="display:flex; flex-direction: row; justify-item:center">
-  <h1>Programmer</h1>
-  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
-</div>
-<div styles="display:flex; flex-direction: row; justify-item:center">
-  <h1>Fencer</h1>
-  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
-  </div>
-<div styles="display:flex; flex-direction: row; justify-item:center">
-  <h1>Boba Lover</h1>
-  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
-</div>
+# Programmer  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
+# Fencer <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
+# Boba Lover <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
+
 

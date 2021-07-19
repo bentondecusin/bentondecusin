@@ -12,6 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://bcyl-io.vercel.app/gh.readme" >
-  <img align="center" src="https://bcyl-io.vercel.app/gh.readme" alt"Ahhhhh birbs"/>
-</a>
+<div styles="display:flex; flex-direction: row; justify-item:center">
+  <a>Programmer</a>
+  <img height="20sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
+</div>
+<div styles="display:flex; flex-direction: row; justify-item:center">
+  <a>Fencer</a>
+  <img height="20sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
+  </div>
+<div styles="display:flex; flex-direction: row; justify-item:center">
+  <a>Boba Lover</a>
+  <img height="20sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
+</div>
+

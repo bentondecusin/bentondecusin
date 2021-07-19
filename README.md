@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div styles="display:flex; flex-direction: row; justify-item:center">
-  <a>Programmer</a>
-  <img height="20sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
+  <h1>Programmer</h1>
+  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
 </div>
 <div styles="display:flex; flex-direction: row; justify-item:center">
-  <a>Fencer</a>
-  <img height="20sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
+  <h1>Fencer</h1>
+  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
   </div>
 <div styles="display:flex; flex-direction: row; justify-item:center">
-  <a>Boba Lover</a>
-  <img height="20sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
+  <h1>Boba Lover</h1>
+  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
 </div>
 

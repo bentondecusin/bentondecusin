@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Programmer  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
+# Front-End Programmer  <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
 # Fencer <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
 # Boba Lover <img height="50sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
 

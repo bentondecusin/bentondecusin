@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Front-End Programmer  <img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
-#### Bioinformatician Wannabe  <img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif"></img>
-#### Sabre Fencer <img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
-#### Boba Lover <img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
+<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
+<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif"></img>
+<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
+<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
 
 

@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif"></img>
-<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif"></img>
-<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif"></img>
-<img height="30sp" src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif"></img>
+### Quant Stack 1  
+<img src='/scala.svg' width='25'> <img src='/python.svg' width='25'> <img src='/apachespark.svg' width='25'> <img src='/apachehadoop.svg' width='25'> <img src='/apacheflink.svg' width='25'> <img src='/apachekafka.svg' width='25'> 
+
+### Quant Stack 2
+<img src='/cplusplus.svg' width='25'> <img src='/python.svg' width='25'>  <img src='/typescript.svg' width='25'>  <img src='/dotnet.svg' width='25'> <img src='/plotly.svg' width='25'> <img src='/react.svg' width='25'>
+
+### For fun
+<img src='/nextdotjs.svg' width='25'> <img src='/chartdotjs.svg' width='25'> <img src='/express.svg' width='25'> <img src='/flask.svg' width='25'>
 
 

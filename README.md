@@ -7,7 +7,7 @@
 **Quant Stack 2 (trading)**   
 <img src='/cplusplus.svg' width='25'> <img src='/python.svg' width='25'>  <img src='/typescript.svg' width='25'>  <img src='/dotnet.svg' width='25'> <img src='/plotly.svg' width='25'> <img src='/react.svg' width='25'>
 
-**For fun**
+**For fun**    
 <img src='/nextdotjs.svg' width='25'> <img src='/chartdotjs.svg' width='25'> <img src='/express.svg' width='25'> <img src='/flask.svg' width='25'>
 
 
